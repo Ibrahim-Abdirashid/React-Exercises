@@ -6,3 +6,4 @@
 4:[Exercise 4](https://github.com/Ibrahim-Abdirashid/React-Exercises/tree/main/exercise4/src)
 5:[Exercise 5](https://github.com/Ibrahim-Abdirashid/React-Exercises/tree/main/exercise5/src)
 6:[Exercise 6](https://github.com/Ibrahim-Abdirashid/React-Exercises/tree/main/exercise6/src)
+7:[Exercise 7](https://github.com/Ibrahim-Abdirashid/React-Exercises/tree/main/exercise7/src)
