@@ -11,3 +11,4 @@
 9:[Exercise 9](https://github.com/Ibrahim-Abdirashid/React-Exercises/tree/main/exercise9/src)
 10:[Exercise 10](https://github.com/Ibrahim-Abdirashid/React-Exercises/tree/main/exercise10/src)
 11:[Exercise 11](https://github.com/Ibrahim-Abdirashid/React-Exercises/tree/main/exercise11/src)
+12:[Exercise 12](https://github.com/Ibrahim-Abdirashid/React-Exercises/tree/main/exercise12/src)
