@@ -1,0 +1,31 @@
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+    
+ 
+}   
+
+ .container input {
+    width: 100%;
+    padding-block: .5rem;
+    padding-inline: 1rem;
+    border-radius: .5rem;
+    outline: none;
+    border: 1px solid gray;
+    flex: 1;
+    font-size: 1rem;
+}
+
+.container button {
+    padding-block: .5rem;
+    padding-inline: 1rem;
+    border-radius: .5rem;
+    outline: none;
+    background-color: rgb(131, 3, 190);
+    border: none;
+    color: white;
+    font-size: 1rem;
+}   
