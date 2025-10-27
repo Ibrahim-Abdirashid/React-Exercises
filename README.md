@@ -22,3 +22,4 @@
 20:[Exercise 20](https://github.com/Ibrahim-Abdirashid/React-Exercises/tree/main/exercise20/src)
 22:[Exercise 22](https://github.com/Ibrahim-Abdirashid/React-Exercises/tree/main/exercise22/src)
 23:[Exercise 23](https://github.com/Ibrahim-Abdirashid/React-Exercises/tree/main/exercise23/src)
+24:[Exercise 24](https://github.com/Ibrahim-Abdirashid/React-Exercises/tree/main/exercise24/src)
